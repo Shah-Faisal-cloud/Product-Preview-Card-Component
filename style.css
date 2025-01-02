@@ -97,6 +97,7 @@ button img {
 }
 button:hover {
   background-color: hsl(158, 36%, 27%);
+  transition: background-color .3s ease;
   cursor: pointer;
 }
 .attribution {
